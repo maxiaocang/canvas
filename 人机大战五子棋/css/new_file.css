@@ -1,0 +1,15 @@
+@charset "utf-8";
+*{
+	margin: 0px;
+	padding: 0px;
+}
+#top{
+	text-align: center;
+	line-height: 80px;
+}
+/*设置棋盘样式*/
+#chess{
+	display: block;
+	margin: 20px auto;
+	box-shadow: -2px -2px 2px darkgray,5px 5px 5px darkgray;
+}
